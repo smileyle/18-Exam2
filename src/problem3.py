@@ -44,6 +44,8 @@ class Cloud(object):
              currently holds
     """
 
+    # rainember is a pun on remember and rain,  there is no typo
+
     def __init__(self, capacity, water):
         self.capacity = capacity
         self.water = water
